@@ -15,9 +15,33 @@ The Sales Director seeks a high-level overview of regional performance—identif
 
 3) Time filters by month/year for customizable date ranges.
 
+# Results and Insights
+
+**Live Dashboard**
+
 <p align="center">
- <img src="https://raw.githubusercontent.com/PuranjoyPatra/Resume_Project_Challenge_4/refs/heads/master/images/business_model/BM-2.png" alt="Sell flow Overview" >
+ <img src="https://github.com/bhavik-singhi/Atliq-Hardware-Sales-Insights/blob/main/Assets/DB1.png" alt="Sell flow Overview" >
 </p>
+
+<p align="center">
+ <img src="https://github.com/bhavik-singhi/Atliq-Hardware-Sales-Insights/blob/main/Assets/DB2.png" alt="Sell flow Overview" >
+</p>
+
+<p align="center">
+ <img src="https://github.com/bhavik-singhi/Atliq-Hardware-Sales-Insights/blob/main/Assets/DB3.png" alt="Sell flow Overview" >
+</p>
+
+## Insights
+
+
+
+## Data Modeling
+Here you can check the Data Model which is used for this project. I have created this model in MySQL Workbench. 
+
+<p align="center">
+ <img src="https://github.com/bhavik-singhi/Atliq-Hardware-Sales-Insights/blob/main/Assets/Database1.png" alt="Sell flow Overview" >
+</p>
+
 
  
 
