@@ -14,7 +14,7 @@ The Sales Director seeks a high-level overview of regional performance—identif
 
 # Results and Insights
 
-CLick here to view **Live Dashboard**.
+Click here to view **Live Dashboard**.
 
 
 ## Insights and Recommendations
