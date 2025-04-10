@@ -20,17 +20,17 @@ Click here to view **Live Dashboard**.
 
 
 ## Insights and Recommendations
-Key Sales Insights for Atliq Hardware (4-Year Performance Overview)
-- **Overall Performance:** Generated **$985M** in sales with a steady **2.5% profit margin**, reflecting consistent but lean profitability.
+Key Sales Insights for Atliq Hardware (4-Year Performance Overview):
+**Overall Performance:** Generated **$985M** in sales with a steady **2.5% profit margin**, reflecting consistent but lean profitability.
 
-  **Top-Performing Cities:**
+**Top-Performing Cities:**
 -	**Delhi** leads in both **revenue (52.8%)** and **profit contribution (48.5%),** followed by **Mumbai**.
 -	**Surat & Bhubaneswar** show **high profit margins** but **low revenue contribution**, suggesting untapped potential—strategic marketing could enhance distribution.
 
- Product Highlights:
+**Product Highlights:**
 -	**Prod318** is the top-selling product ($69M) whereas **Prod329** delivers the highest profit ($1.9M) at just half the sales volume, indicating superior margin efficiency.
 
- 	Areas for Improvement:
+**Areas for Improvement:**
 -	**Bengaluru** reports the **lowest revenue** and **highest loss margin**, requiring urgent corrective measures to mitigate losses.
 
 
