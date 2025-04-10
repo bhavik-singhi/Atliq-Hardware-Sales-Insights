@@ -6,10 +6,12 @@ The Sales Director seeks a high-level overview of regional performance—identif
 
 ## Tasks to be done
 1)  Data Preparation & Transformation - Apply data wrangling techniques in SQL to clean and standardize datasets.
+
 2) Key Performance Metrics in Dashboard: 
 -	Revenue & Sales Volume: Total revenue, sales quantity, and trend analysis.
 -	Top Products: Best-performing products by revenue and units sold.
 -	Market & Product Contribution: Revenue and profit breakdown by region and category.
+
 3) Time filters by month/year for customizable date ranges.
 
 # Results and Insights
